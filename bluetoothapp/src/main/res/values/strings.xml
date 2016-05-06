@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bluetoothapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_characteristic">CharacteristicActivity</string>
+    <string name="mac_address">MAC: %s</string>
+</resources>
